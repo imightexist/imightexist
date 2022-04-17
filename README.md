@@ -19,6 +19,7 @@ so um, i exist, and i make really shitty stuff. my projects were made for fun so
 Unfinished projects:
 - node-WindowsForms (fixing some child process errors and removing features that were for development only)
 - BetterBrowser (finishing the csharp version)
+- BetterTimber (this project just started)
 
 Cancelled projects:
 - Andrej fucker (honestly not worth making an entire ass bot just to ban some troll that won't fuck off)
