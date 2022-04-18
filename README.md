@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 so um, i exist, and i make really shitty stuff. my projects were made for fun so dont be surprised if a project is unfinished or has bugs that might never be fixed
 
 Unfinished projects:
-- node-WindowsForms (fixing some child process errors and removing features that were for development only)
+- node-WindowsForms (fixing some child process errors)
 - BetterBrowser (finishing the csharp version)
 - BetterTimber (this project just started)
+- minecraft-websocket
 
 Cancelled projects:
 - Andrej fucker (honestly not worth making an entire ass bot just to ban some troll that won't fuck off)
