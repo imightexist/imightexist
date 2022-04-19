@@ -20,7 +20,7 @@ Unfinished projects:
 - node-WindowsForms (fixing some child process errors)
 - BetterBrowser (finishing the csharp version)
 - BetterTimber (this project just started)
-- JSCraft (once you understand shit it is possible to make one)
+- MinecraftJS (once you understand shit it is possible to make one)
 
 Cancelled projects:
 - Andrej fucker (honestly not worth making an entire ass bot just to ban some troll that won't fuck off)
