@@ -19,7 +19,7 @@ so um, i exist, and i make really shitty stuff. my projects were made for fun so
 Unfinished projects:
 - node-WindowsForms (fixing some child process errors)
 - BetterBrowser (finishing the csharp version)
-- BetterTimber (this project just started)
+- BetterTimber (i gotta learn how to use javascript canvas)
 - MinecraftJS (once you understand shit it is possible to make one)
 
 Cancelled projects:
