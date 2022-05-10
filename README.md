@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 so um, i exist, and i make really shitty stuff. my projects were made for fun so dont be surprised if a project is unfinished or has bugs that might never be fixed
 
+Cool projects:
+- node-WindowsForms (onclick and modify doesn't work, but pretty good nodejs gui framework i guess)
+- BetterTimber (ehh might have some issues, maybe a lot)
+
 Unfinished projects:
-- node-WindowsForms (fixing some child process errors)
-- BetterBrowser (finishing the csharp version)
-- BetterTimber (i gotta learn how to use javascript canvas)
 - MinecraftJS (once you understand shit it is possible to make one)
 
 Cancelled projects:
