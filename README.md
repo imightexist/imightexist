@@ -24,6 +24,6 @@ Cool projects:
 
 Projects that I'm working on:
 - EggCraft (minecraft client online)
-- Redstone Chips mod (basically building something in a dimension, and the redstone function gets shrinked into one block)
+- Berriers (browser engine)
 - Sandwich (programming language)
-- Setup (windows installer)
+- Pool Party (game)
