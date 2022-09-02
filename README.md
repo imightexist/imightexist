@@ -24,6 +24,6 @@ Cool projects:
 
 Projects that I'm working on:
 - EggCraft (minecraft client online)
-- Berriers (browser engine)
+- Berries (browser engine)
 - Sandwich (programming language)
 - Pool Party (game)
