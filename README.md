@@ -23,7 +23,7 @@ Cool projects:
 - PaintVM
 
 Projects that I'm working on:
-- EggCraft (minecraft client online)
+<!-- - EggCraft (minecraft client online) -->
 - Berries (browser engine)
 - Sandwich (programming language)
 - Pool Party (game)
