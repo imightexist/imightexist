@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Feb 2022: so um, i exist, and i make really shitty stuff. my projects were made for fun so dont be surprised if a project is unfinished or has bugs that might never be fixed
+-->
 Sep 2022: this is iexist. he codes. he makes too many repos. he never finishes his projects fully. it is your choice to like iexist.
 
 Cool projects:
