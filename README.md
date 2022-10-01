@@ -19,10 +19,11 @@ Feb 2022: so um, i exist, and i make really shitty stuff. my projects were made 
 this is iexist. he codes. he makes too many repos. he never finishes his projects fully. it is your choice to like iexist.
 
 Cool projects:
-- node-WindowsForms (onclick and modify doesn't work, but pretty good nodejs gui framework i guess)
+<!--- node-WindowsForms (onclick and modify doesn't work, but pretty good nodejs gui framework i guess)
 - BetterTimber (ehh might have some issues, maybe a lot)
 - BetterVM
-- PaintVM
+- PaintVM-->
+- none
 
 Projects that I'm working on:
 <!-- - EggCraft (minecraft client online) -->
