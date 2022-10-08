@@ -30,3 +30,5 @@ Projects that I'm working on:
 - Sandwich (programming language)
 - Pool Party (game)
 - tacocoin is comin back bitches
+
+btw check out legoskid on github
