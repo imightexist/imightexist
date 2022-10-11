@@ -29,6 +29,5 @@ Projects that I'm working on:
 <!-- - EggCraft (minecraft client online) -->
 - Sandwich (programming language)
 - Pool Party (game)
-- tacocoin is comin back bitches
 
 btw check out legoskid on github
