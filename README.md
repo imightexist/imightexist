@@ -23,7 +23,8 @@ Cool projects:
 - BetterTimber (ehh might have some issues, maybe a lot)
 - BetterVM
 - PaintVM-->
-- none
+- ibot
+- minichat
 
 Projects that I'm working on:
 <!-- - EggCraft (minecraft client online) -->
