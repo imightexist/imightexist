@@ -28,10 +28,4 @@ Cool projects:
 - ibot
 - minichat
 
-Projects that I'm working on:
-<!-- - EggCraft (minecraft client online) -->
-- Sandwich (programming language)
-- Pool Party (game)
-- collabcraft
-
 btw check out legoskid on github
