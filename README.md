@@ -28,4 +28,4 @@ Cool projects:
 - ibot
 - minichat
 
-btw check out legoskid on github
+i was a different person in 2022/23
