@@ -28,4 +28,4 @@ Cool projects:
 - ibot
 - minichat
 
-i was a different person in 2022/23
+i was a different person before 2024
